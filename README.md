@@ -1,5 +1,5 @@
 # getting-started
-Getting started with GitHub actions.
+Getting started with GitHub actions. 
 
 Update 1 
 
